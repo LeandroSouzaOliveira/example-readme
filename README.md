@@ -74,3 +74,11 @@ yarn start
 
 Wellington Mazoni de Andrade
 https://www.linkedin.com/in/wmazoni
+
+<!-- Outras sessões que podem ser inclusas opicionalmente:
+1. projetos open-source, quando a intenção de pedir contribuições;
+2. competências e técnicas que foram aplicadas, padrão de projetos, padrão camadas, etc.;
+3. integrações com bibliotecas específicas, pagamento, upload, push notification, ect.;
+4. features ou escopo da aplicação, o que existe na aplicação, quais casos de uso foram implementados (gerenciamento de carrinho, cadastros, relatórios, processo de compra, etc.;
+5. agradecimentos, podem ser interessantes e enfatizam com quais pessoas o projeto foi elaborado direta ou indiretamente (empresas, instituições, escolas, etc.), contribuindo para referências;
+-->
